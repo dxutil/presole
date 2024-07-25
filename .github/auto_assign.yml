@@ -1,0 +1,11 @@
+# https://github.com/marketplace/actions/auto-assign-action
+addReviewers: true
+
+addAssignees: author
+
+reviewers:
+  - po4tion
+
+numberOfReviewers: 0
+
+runOnDraft: true

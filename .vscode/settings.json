@@ -1,0 +1,8 @@
+{
+  "cSpell.words": ["tsup", "presole"],
+  "editor.defaultFormatter": "biomejs.biome",
+  "editor.codeActionsOnSave": {
+    "quickfix.biome": "explicit",
+    "source.organizeImports.biome": "explicit"
+  }
+}
