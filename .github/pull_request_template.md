@@ -14,3 +14,4 @@ Please delete options that are not relevant.
 - [ ] feat (New or Update features)
 - [ ] fix (Fix a bug)
 - [ ] refactor (Reorganizing code without changing results)
+- [ ] ci (linting or else)
