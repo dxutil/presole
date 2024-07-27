@@ -10,6 +10,8 @@
       "*": ["./dist/index.d.ts", "./dist/index.d.cts"]
     }
   },
+  "sideEffects": false,
+  "files": ["./dist", "./package.json"],
   "exports": {
     ".": {
       "import": {
@@ -20,7 +22,8 @@
         "types": "./dist/index.d.cts",
         "default": "./dist/index.cjs"
       }
-    }
+    },
+    "./package.json": "./package.json"
   },
   "publishConfig": {
     "access": "public",
