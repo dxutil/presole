@@ -1,5 +1,5 @@
 {
-  "cSpell.words": ["tsup", "presole"],
+  "cSpell.words": ["po4tion", "presole", "tsup"],
   "editor.defaultFormatter": "biomejs.biome",
   "editor.codeActionsOnSave": {
     "quickfix.biome": "explicit",
